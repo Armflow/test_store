@@ -1,8 +1,8 @@
 import React from 'react';
 import { render } from 'react-dom';
-import Store from './Store';
-import Basket from './Basket';
-import './styles.css'
+import Store from './Pages/Store';
+import Basket from './Pages/Basket';
+import './Pages/styles.css'
 
 class App extends React.Component {
 

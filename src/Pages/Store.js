@@ -1,9 +1,9 @@
 import React from 'react';
 // eslint-disable-next-line
 import { useState } from 'react';
-import Logo from './img_src/logo1.png'
+import Logo from '../img_src/logo1.png'
 import './styles.css'
-import CList from './CList'
+import CList from '../buildCandy/CList'
 
 
 export default function Store(props) {

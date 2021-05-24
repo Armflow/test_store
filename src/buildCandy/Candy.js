@@ -2,7 +2,6 @@
 import React from 'react'
 
 export default function Candy({candy, index, onClick}) {
-    //console.log('candy', candy)
     return(
         <div className="candy">
         <div className="candy-img">
