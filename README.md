@@ -1,6 +1,6 @@
 # test_store
  
-## Test store - interview project for the full stack programmer position at Kimaia Company.
+## Test store - interview project for the web programmer position at Kimaia Company.
 
 #### Example:  
 
