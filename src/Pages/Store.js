@@ -35,11 +35,11 @@ return (
       </div>
   
       <div className="list">
-        <CList candies={candies.slice(0, 3)} onToggle={toggleCandy} />
+        <CList candies={candies.slice(0, 4)} onToggle={toggleCandy} />
       </div>
   
       <div className="list">
-        <CList candies={candies.slice(-3)} onToggle={toggleCandy} />
+        <CList candies={candies.slice(-4)} onToggle={toggleCandy} />
       </div>
     </div>
   
