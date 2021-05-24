@@ -25,9 +25,12 @@ return (
   
       <div className='cascade'>
         <font color='white'>
-          <strong>&nbsp;Items in the basket: </strong>
+          <strong>&nbsp;Basket: </strong>
         </font>
-        <input className='input' readOnly={true} value={(candies.filter( ({ordered}) => ordered === true)).length} /> &nbsp;
+        <input className='input' readOnly={true} value={(candies.filter( ({ordered}) => ordered === true)).length} />&nbsp;
+        <font color='white'>
+          <strong>items.</strong>
+        </font>
       </div>
   
       <div className = 'wrapper'>

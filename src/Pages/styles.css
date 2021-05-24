@@ -32,8 +32,12 @@ body {
   }
 
 .input{
-    border: white;
-    width: 50px;
+    border: steelblue;
+    background-color: steelblue;
+    color: white;
+    font-weight: bold;
+    font-size: medium;
+    width: 20px;
     height: 20px;
     text-decoration: solid;
     text-align: center;
