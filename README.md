@@ -1,7 +1,7 @@
 # ReactJS, NodeJS and MongoDB testing project
 
-## Created as an interview exercise
-## for testing purposes only.
+## Created as an interview exercise for testing purposes only.
+
 
 #### [Usage]:  
 Clone down git repository: 
