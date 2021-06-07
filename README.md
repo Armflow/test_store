@@ -1,9 +1,6 @@
 # ReactJS, NodeJS and MongoDB testing project
 
-<img src="https://github.com/Armflow/test_store/front/src/img_src/logo.png" align="right"
-     alt="test_store">
-
-## Created as an interview exercise for web programmer position
+## Created as an interview exercise
 ## for testing purposes only.
 
 #### [Usage]:  
