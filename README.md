@@ -25,11 +25,11 @@ Execute `npm start` from the command inside the `front` folder.
 Open your browser at [http://localhost:3000](http://localhost:3000)
 
 ## Platform and tools:
-Windows 10 machine<br>
-VS Code v1.56.2<br>
-Node js v14.16.1<br>
-MongoDB Compass<br>
-Free DB host at [https://www.mongodb.com/](https://www.mongodb.com/)<br>
-Windows PowerShell<br>
-github
+* Windows 10 machine<br>
+* VS Code v1.56.2<br>
+* Node js v14.16.1<br>
+* MongoDB Compass<br>
+* Free DB host at [https://www.mongodb.com/](https://www.mongodb.com/)<br>
+* Windows PowerShell<br>
+* github
 
