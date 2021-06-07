@@ -29,7 +29,7 @@ Windows 10 machine<br>
 VS Code v1.56.2<br>
 Node js v14.16.1<br>
 MongoDB Compass<br>
-Free DB host at `https://www.mongodb.com/`<br>
+Free DB host at [https://www.mongodb.com/]: https://www.mongodb.com/<br>
 Windows PowerShell<br>
 github
 
