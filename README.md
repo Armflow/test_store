@@ -5,7 +5,7 @@
 
 #### [Usage]:  
 Clone down git repository: 
-`git clone https://github.com/Armflow/test_store`
+`git clone https://github.com/Armflow/test_store`<br>
 The `node` and `npm` needed to be installed on your machine.  
 
 #### [Installation]:
