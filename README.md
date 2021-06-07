@@ -1,9 +1,12 @@
 # ReactJS, NodeJS and MongoDB testing project
 
-## The project for testing purposes only.
-## Created as an interview exercise for web programmer position.
+<img src="https://github.com/Armflow/test_store/front/src/img_src/MMs.jpg" align="right"
+     alt="test_store" width="120" height="178">
 
-#### [Using directions]:  
+## Created as an interview exercise for web programmer position
+## for testing purposes only.
+
+#### [Usage]:  
 Clone down git repository. `git clone https://github.com/Armflow/test_store`
 The `node` and `npm` needed to be installed on your machine.  
 
