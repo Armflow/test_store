@@ -14,15 +14,15 @@ This will install the missing node modules.
 
 #### [To Start backend Server]:
 Execute `npm start` from the command inside the `back` folder. <br>
-Open your browser at `http://localhost:9000` URL<br>
-The fetched from MongoDB data will shown at `http://localhost:9000/api` URL<br>
+Open your browser at [http://localhost:9000](http://localhost:9000) URL<br>
+The fetched from MongoDB data will shown at [http://localhost:9000/api](http://localhost:9000/api) URL<br>
 Leave the server stay run.
 
 #### [To Start frontend Server]:
 Execute `npm start` from the command inside the `front` folder. 
 
 #### [To Visit App]:
-Open your browser at `http://localhost:3000`
+Open your browser at [http://localhost:3000](http://localhost:3000)
 
 ## Platform and tools:
 Windows 10 machine<br>
