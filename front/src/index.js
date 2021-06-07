@@ -5,7 +5,6 @@ import Basket from './Pages/Basket';
 import './Pages/styles.css'
 
 class App extends React.Component {
-  
   constructor(props) {
     super(props)
     this.handleBasketKeyClick = this.handleBasketKeyClick.bind(this)
@@ -15,7 +14,8 @@ class App extends React.Component {
   componentDidMount(){
     this.Candies();
   }
-
+  
+  //Get the items array from the backend
   fetchCandies = () => {
     this.setState({...this.state});
     fetch('http://localhost:9000/api')
@@ -29,6 +29,7 @@ class App extends React.Component {
   };
   Candies = this.fetchCandies;
 
+  //Handle the Basket/Store button
   handleBasketKeyClick() {
     if (this.state.currentPage === 'Store') {
       this.setState({currentPage: 'Basket'})
@@ -41,6 +42,7 @@ class App extends React.Component {
     }
   }
 
+  //Render the output
   render() {
     return (
     <div className='wrapper'>
