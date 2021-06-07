@@ -1,7 +1,8 @@
 # ReactJS, NodeJS and MongoDB testing project
 
 ##The project for testing purposes only.
-##Created as an interview exercise for web programmer position.
+
+###Created as an interview exercise for web programmer position.
 
 #### Using directions:  
 Clone down git repository. The `node` and `npm` needed installed on your machine.  
