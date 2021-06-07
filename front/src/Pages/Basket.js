@@ -18,6 +18,8 @@ export default function Basket(props) {
     return (
         <div className='app'>
             <h3>Basket content ({(props.state.candies.filter( ({ordered}) => ordered === true)).length} items):</h3>
+                {(props.state.candies.filter( ({ordered}) => ordered === true)).length === 0 ? 
+                <div className='list'>The Basket is empty</div> : null}
             <div className='wrapper'>
                 {React.Children.toArray(
                     props.state.candies.map((candy, index) => {
