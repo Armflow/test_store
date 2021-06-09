@@ -57,7 +57,7 @@ app.use('/models', Candy);
 
 //Route for home
 app.get('/', function (req, res) {
-  res.send('!ילד, לך הביתה - אין פה במבא')
+  res.send('The Backend is working good.')
 });
 
 module.exports = app;
