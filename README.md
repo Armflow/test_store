@@ -6,7 +6,7 @@
 #### [Usage]:  
 Clone down git repository: 
 `git clone https://github.com/Armflow/test_store`<br>
-The `node` and `npm` needed to be installed on your machine.  
+The `node` and `npm` are needed to be installed on your machine.  
 
 #### [Installation]:
 Execute the same `npm install` inside the `front` and `back` project folders separately.<br>
@@ -32,4 +32,5 @@ Open your browser at [http://localhost:3000](http://localhost:3000)
 * Free DB host at [https://www.mongodb.com/](https://www.mongodb.com/)<br>
 * Windows PowerShell<br>
 * github
+
 
